@@ -27,12 +27,11 @@ This project's purpose is to find available people to play your favorite games i
 
 ### 📱 For Mobile
 
-```{r, fig.cap="img from project mobile", out.width = '32%'}
-knitr::include_graphics('https://i.imgur.com/FAZGBhA.jpg')
-knitr::include_graphics('https://i.imgur.com/g6C2Eqx.jpg')
-knitr::include_graphics('https://i.imgur.com/GzHyA61.jpg')
+![img from project mobile {width=250px}](https://i.imgur.com/FAZGBhA.jpg){width=250px}
 
-```
+![2nd img from project mobile](https://i.imgur.com/g6C2Eqx.jpg){width=250px}
+
+![3nd img from project mobile](https://i.imgur.com/GzHyA61.jpg){width=250px}
 
 ## How to execute
 
