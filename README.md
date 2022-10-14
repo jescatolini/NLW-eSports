@@ -27,11 +27,15 @@ This project's purpose is to find available people to play your favorite games i
 
 ### 📱 For Mobile
 
-<img width="33%" alt="img from project mobile" src="https://i.imgur.com/FAZGBhA.jpg" />
+<div align="center">
+  <div style="display: flex;">
+    <img width="33%" alt="img from project mobile" src="https://i.imgur.com/FAZGBhA.jpg" />
 
-<img width="33%" alt="img from project mobile" src="https://i.imgur.com/g6C2Eqx.jpg" />
+  <img width="33%" alt="img from project mobile" src="https://i.imgur.com/g6C2Eqx.jpg" />
 
-<img width="33%" alt="img from project mobile" src="https://i.imgur.com/GzHyA61.jpg" />
+  <img width="33%" alt="img from project mobile" src="https://i.imgur.com/GzHyA61.jpg" />
+  </div>
+</div>
 
 
 ## How to execute
