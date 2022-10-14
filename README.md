@@ -27,11 +27,11 @@ This project's purpose is to find available people to play your favorite games i
 
 ### 📱 For Mobile
 
-![img from project mobile](https://i.imgur.com/FAZGBhA.jpg)
+![img from project mobile](https://i.imgur.com/FAZGBhA.jpg){width=250px}
 
-![2nd img from project mobile](https://i.imgur.com/g6C2Eqx.jpg)
+![2nd img from project mobile](https://i.imgur.com/g6C2Eqx.jpg){width=250px}
 
-![3nd img from project mobile](https://i.imgur.com/GzHyA61.jpg)
+![3nd img from project mobile](https://i.imgur.com/GzHyA61.jpg){width=250px}
 
 ## How to execute
 
